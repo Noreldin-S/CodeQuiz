@@ -1,6 +1,7 @@
 # CodeQuiz
+https://github.com/Noreldin-S/CodeQuiz
 
-
+https://noreldin-s.github.io/CodeQuiz/
 
 
 - first I created 2 HTML sheets, 1 will contain the main content and quiz's questions and 1 for score.
@@ -18,3 +19,6 @@
 - once you finish the quiz and see your score and clicked submit, it will take you to the score.html page.
 
 - in score.html you will see details oon the score for each question and in the button it will ask you if you want to go back and retake quiz or clear score (delete all of it). and what will make the buttons work is the scores.js
+
+
+<img src="./assets/screenshot.png" width="700" height="500">

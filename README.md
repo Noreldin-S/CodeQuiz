@@ -21,4 +21,4 @@ https://noreldin-s.github.io/CodeQuiz/
 - in score.html you will see details oon the score for each question and in the button it will ask you if you want to go back and retake quiz or clear score (delete all of it). and what will make the buttons work is the scores.js
 
 
-<img src="./assets/screenshot.png" width="700" height="500">
+<img src="assets/Screenshot.png" width="700" height="500">

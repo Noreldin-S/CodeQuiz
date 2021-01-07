@@ -11,8 +11,8 @@ var startBtn = document.getElementById("start");
 var initialsEl = document.getElementById("initials");
 var feedbackEl = document.getElementById("feedback");
 
-var sfxRight = new Audio("assets/sfx/correct.wav");
-var sfxWrong = new Audio("assets/sfx/incorrect.wav");
+var sfxRight = new Audio("assets/correct.wav");
+var sfxWrong = new Audio("assets/incorrect.wav");
 
 
 function startQuiz() {
@@ -50,12 +50,12 @@ function questionClick() {
     }
     timerEl.textContent = time;
     sfxWrong.play();
-
     feedbackEl.textContent = "Wrong!";
   } else {
     sfxRight.play();
     feedbackEl.textContent = "Correct!";
   }
+
 
   feedbackEl.setAttribute("class", "feedback");
   setTimeout(function() {

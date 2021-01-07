@@ -13,6 +13,8 @@
 - index.html will contain a paragraph to explain the quiz and if you can take the quiz again. and also a "start quiz" button.
 - once you press it the logic.js will go to work by showing you the quistions and choices from quistions.js.
 - then it will show you your score and ask you for intials with a "submit" button.
+- In Logic i also added some audio for the correct and incorrect answers.
 
--once you finish the quiz and see your score and clicked submit, it will take you to the score.html page.
-in score.html you will see details oon the score for each question and in the button it will ask you if you want to go back and retake quiz or clear score (delete all of it). and what will make the buttons work is the scores.js
+- once you finish the quiz and see your score and clicked submit, it will take you to the score.html page.
+
+- in score.html you will see details oon the score for each question and in the button it will ask you if you want to go back and retake quiz or clear score (delete all of it). and what will make the buttons work is the scores.js
